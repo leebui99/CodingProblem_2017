@@ -1,0 +1,4 @@
+Amazon Interview Question
+
+// Given a string of characters, find a character that occurs more than once.
+// Given a string of characters, find the first character that occurs only once.
